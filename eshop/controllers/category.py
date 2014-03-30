@@ -1,0 +1,2 @@
+def category(request):
+	pass
